@@ -1,4 +1,4 @@
-# 
+# Automatique AI Emotion Detection from Text plugins. Avec analytique prédictive et visualisation des données — optimisé pour des performances maximales.
 
 
 
